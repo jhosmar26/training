@@ -6,4 +6,5 @@ AreaTrabajo	varchar(50) not null,
 Sueldo		decimal not null,
 Estado		int not null
 )
+
 insert into EMPLEADO values ('Jhose','Portillo Torres','Administracion',950.00,1)
